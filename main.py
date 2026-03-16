@@ -27,7 +27,7 @@ class Game:
 
     def generate_bricks(self):
         bricks =[]
-        colors =[RED,ORANGE,YELLOW, GREEN,BLUE,SKY]
+        colors =[PINK,ORANGE,YELLOW, GREEN,BLUE,SKY]
 
         for row in range(BRICK_ROWS):
             for col in range(BRICK_COLS):

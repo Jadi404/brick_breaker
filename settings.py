@@ -10,7 +10,7 @@ FPS = 60
 #Colours in game 
 BLACK = (10,10,10)
 WHITE = (240,240,240)
-RED = (240,0,0)
+PINK = (255, 192, 203)
 GREEN = (0,240,0)
 ORANGE = (250,160,0)
 YELLOW = (250,250,0)
