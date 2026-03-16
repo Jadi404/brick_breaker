@@ -11,9 +11,9 @@ This project was created as part of my programming practice to improve my unders
 # Demo
 
 
-```
-![Brick Breaker Gameplay](images/gameplay.gif)
-```
+
+![Brick Breaker Gameplay](assets/brickbreaker.gif)
+
 
 ---
 
