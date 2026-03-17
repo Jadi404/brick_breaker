@@ -24,4 +24,4 @@ class Ball():
 
     def draw(self, window: pygame.Surface):
         center = pygame.Vector2(self.rect.x +BALL_RADIUS, self.rect.y + BALL_RADIUS)
-        pygame.draw.circle(window, RED, center, BALL_RADIUS)
+        pygame.draw.circle(window, PINK, center, BALL_RADIUS)
